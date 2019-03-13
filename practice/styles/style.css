@@ -1,0 +1,47 @@
+p{
+    background-color: gold;
+}
+div :nth-child(3){
+    text-decoration: underline;
+}
+#unique{
+   font-style: ;
+    font-weight: 700;
+}
+.special{
+    background-color: blue;
+    color: red;
+    border: 1px solid black; 
+    border-radius: 25px;
+    height: 150px;
+    width: 150px;
+    text-align: center;
+}
+div{
+    border: 2px solid red;
+    margin: 10px;
+    
+}
+#nav{
+    font-size: 24px;
+    font-family: sans-serif;
+    font-style: oblique;
+    list-style: none;
+    background-color: #3498db;
+}
+#nav li{
+    display: inline-block;
+    text-align: center;
+    width: 200px;
+    padding-left: 10px;
+    padding-right: 10px;
+    margin-left: 40px;
+    
+}
+#nav a{
+    text-decoration: none;
+
+}
+#nav li a:hover{
+    color: #2be2aa;
+}
